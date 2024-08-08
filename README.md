@@ -3,7 +3,7 @@
 ## Description
 The data contains 101,702 entries. All words and pronunciations are produced by Japanese linguists. It can be used in the research and development of Japanese ASR technology.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1088?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/pronunciation/1088?source=Github
 
 
 # Specifications
